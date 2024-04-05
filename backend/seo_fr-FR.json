@@ -1,4 +1,5 @@
 {
-  "altText" : "Il s’agit du texte alternatif",
-  "metaText" : "Des traductions en un rien de temps"
+  "altText" : "Il s’agit du texte alternatif avec une mise à jour",
+  "metaText" : "Des traductions en un rien de temps",
+  "altImageText" : "Il s’agit d’un texte alternatif d’image"
 }
