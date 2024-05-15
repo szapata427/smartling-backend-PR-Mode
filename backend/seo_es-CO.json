@@ -1,5 +1,6 @@
 {
   "altText" : "Este es el texto alternativo con una actualización",
   "metaText" : "Traducciones en un abrir y cerrar de ojos",
-  "altImageText" : "Este es el texto alternativo de la imagen"
+  "altImageText" : "Este es el texto alternativo de la imagen",
+  "description" : "Esta es nuestra descripción"
 }
