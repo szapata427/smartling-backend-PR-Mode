@@ -1,4 +1,6 @@
 {
-"altText":"This is the alt text",
-"metaText": "translations in no time"
+"altText":"This is the alt text with an update",
+"metaText": "translations in no time",
+"altImageText": "this is image alt text",
+"description": "this is our description"
 }
