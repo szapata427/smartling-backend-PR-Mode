@@ -4,5 +4,6 @@
   "altImageText" : "Il s’agit d’un texte alternatif d’image",
   "title" : "Un endroit assiégé sur terre",
   "description" : "Voici notre description",
-  "description2" : "C’est ma deuxième description"
+  "description2" : "C’est ma deuxième description",
+  "delete" : "Je vais supprimer la chaîne ci-dessus !"
 }
