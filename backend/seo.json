@@ -4,5 +4,6 @@
 "altImageText": "this is image alt text",
   "title": "Beset place on earth",
 "description": "this is our description",
-  "description2": "this is my second description"
+  "description2": "this is my second description",
+  "delete": "I will delete the string above!"
 }
