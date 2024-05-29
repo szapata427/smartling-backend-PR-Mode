@@ -4,5 +4,6 @@
   "altImageText" : "Este es el texto alternativo de la imagen",
   "title" : "Lugar asediado en la tierra",
   "description" : "Esta es nuestra descripción",
-  "description2" : "Esta es mi segunda descripción"
+  "description2" : "Esta es mi segunda descripción",
+  "delete" : "¡Borraré la cadena de arriba!"
 }
