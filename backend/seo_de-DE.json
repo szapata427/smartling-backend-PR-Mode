@@ -6,5 +6,6 @@
   "description" : "das ist unsere Beschreibung",
   "description2" : "dies ist meine zweite Beschreibung",
   "delete" : "Ich werde die Zeichenfolge oben löschen!",
-  "summer" : "Der Sommer ist da"
+  "summer" : "Der Sommer ist da",
+  "placeholder" : "Hallo, mein Name ist {Name}"
 }

@@ -6,5 +6,6 @@
   "description" : "Voici notre description",
   "description2" : "C’est ma deuxième description",
   "delete" : "Je vais supprimer la chaîne ci-dessus !",
-  "summer" : "L’été est là"
+  "summer" : "L’été est là",
+  "placeholder" : "Bonjour, je m’appelle {Name}"
 }
