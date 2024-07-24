@@ -7,5 +7,6 @@
   "description2": "this is my second description",
   "delete": "I will delete the string above!",
   "summer": "Summer is here",
-  "placeholder": "Hi, my name is {Name}"
+  "placeholder": "Hi, my name is {Name}",
+  "July": "July is almost over"
 }
