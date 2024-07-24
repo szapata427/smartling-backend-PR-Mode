@@ -7,5 +7,6 @@
   "description2" : "Esta es mi segunda descripción",
   "delete" : "¡Borraré la cadena de arriba!",
   "summer" : "El verano ya está aquí",
-  "placeholder" : "Hola, mi nombre es {Name}"
+  "placeholder" : "Hola, mi nombre es {Name}",
+  "July" : "Julio está a punto de terminar"
 }
